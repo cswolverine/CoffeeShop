@@ -1,0 +1,5 @@
+node_modules
+data/coffee.db
+.env
+.DS_Store
+npm-debug.log
